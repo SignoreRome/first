@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Git, privet, ");
         System.out.println("qqqq");
+        System.out.println("check");
 	// write your code here
     }
 }
